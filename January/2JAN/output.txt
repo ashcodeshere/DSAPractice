@@ -1,6 +1,4 @@
--1 is repeated
-1 is repeated
--1 is repeated
--1 is repeated
-10 is repeated
--1 is repeated
+3 is repeated
+Final String : aebdfcg
+2 is repeated
+Final String : hiennlojla
