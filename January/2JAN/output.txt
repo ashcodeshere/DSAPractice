@@ -1,0 +1,6 @@
+-1 is repeated
+1 is repeated
+-1 is repeated
+-1 is repeated
+10 is repeated
+-1 is repeated
