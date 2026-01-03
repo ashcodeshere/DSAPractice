@@ -1,0 +1,6 @@
+Number of ways: 12
+Number of ways: 54
+Number of ways: 5118
+Number of ways: 10107954
+Number of ways: 690883140
+Number of ways: 30228214
