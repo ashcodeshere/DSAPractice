@@ -1,0 +1,3 @@
+Sum of numbers with exact four divisors: 32
+Sum of numbers with exact four divisors: 64
+Sum of numbers with exact four divisors: 0
