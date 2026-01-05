@@ -1,0 +1,5 @@
+Maximum sum: 4
+Maximum sum: 16
+Maximum sum: 26
+Maximum sum: 0
+Maximum sum: 72
