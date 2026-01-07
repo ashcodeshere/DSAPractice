@@ -1,0 +1,5 @@
+Maximum Product: 9
+Maximum Product: 900
+Maximum Product: 0
+Maximum Product: 192
+Maximum Product: 0
